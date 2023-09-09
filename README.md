@@ -1,2 +1,3 @@
 # consultanse
-Consultanse is an professional consulting website example.
+
+Consultanse is a professional consulting website example.
